@@ -1,4 +1,6 @@
-package creationalPatterns.builderPattern;
+package creationalPatterns.builderPattern.classes;
+
+import creationalPatterns.builderPattern.Packing;
 
 public abstract class ColdDrink implements Item {
 

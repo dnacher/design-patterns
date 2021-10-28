@@ -1,6 +1,8 @@
-package creationalPatterns.builderPattern;
+package creationalPatterns.builderPattern.classes;
 
-public class VegBurger extends Burger{
+import creationalPatterns.builderPattern.classes.Burger;
+
+public class VegBurger extends Burger {
     @Override
     public String name() {
         return "Veg Burger";

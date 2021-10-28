@@ -1,6 +1,6 @@
-package creationalPatterns.builderPattern;
+package creationalPatterns.builderPattern.classes;
 
-public class Pepsi extends ColdDrink{
+public class Pepsi extends ColdDrink {
 
     @Override
     public String name() {
