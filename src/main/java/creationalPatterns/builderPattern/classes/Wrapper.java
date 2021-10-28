@@ -1,6 +1,6 @@
-package creationalPatterns.builderPattern;
+package creationalPatterns.builderPattern.classes;
 
-public class Wrapper implements Packing{
+public class Wrapper implements Packing {
 
     @Override
     public String pack() {

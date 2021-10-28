@@ -1,4 +1,4 @@
-package creationalPatterns.builderPattern.classes;
+package creationalPatterns.builderPattern.classes.bottle;
 
 public class Coke extends ColdDrink {
 

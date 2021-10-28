@@ -1,6 +1,11 @@
-package creationalPatterns.factoryPattern;
+package creationalPatterns.prototypePattern;
 
-public class Square implements Shape{
+
+public class Square extends Shape {
+
+    public Square(){
+        type = "Square";
+    }
 
     @Override
     public void draw() {

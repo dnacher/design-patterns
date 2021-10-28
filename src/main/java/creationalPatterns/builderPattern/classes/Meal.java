@@ -1,4 +1,4 @@
-package creationalPatterns.builderPattern;
+package creationalPatterns.builderPattern.classes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,9 +20,9 @@ public class Meal {
 
     public void showItems(){
         for(Item item: items){
-            System.out.println("Item   : " + item.name());
-            System.out.println("Price  : " + item.price());
-            System.out.println("Packing: " + item.packing().pack());
+            System.out.println("-Item   : " + item.name());
+            System.out.println("-Packing: " + item.packing().pack());
+            System.out.println("-Price  : " + item.price());
         }
     }
 }

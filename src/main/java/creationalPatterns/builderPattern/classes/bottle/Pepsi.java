@@ -1,4 +1,6 @@
-package creationalPatterns.builderPattern.classes;
+package creationalPatterns.builderPattern.classes.bottle;
+
+import creationalPatterns.builderPattern.classes.bottle.ColdDrink;
 
 public class Pepsi extends ColdDrink {
 

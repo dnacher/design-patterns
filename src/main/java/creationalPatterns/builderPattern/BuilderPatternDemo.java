@@ -1,5 +1,7 @@
 package creationalPatterns.builderPattern;
 
+import creationalPatterns.builderPattern.classes.Meal;
+
 public class BuilderPatternDemo {
 
     public static void main(String[] args){

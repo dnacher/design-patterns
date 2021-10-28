@@ -1,6 +1,6 @@
-package creationalPatterns.builderPattern.classes;
+package creationalPatterns.builderPattern.classes.bottle;
 
-import creationalPatterns.builderPattern.Packing;
+import creationalPatterns.builderPattern.classes.Packing;
 
 public class Bottle implements Packing {
 

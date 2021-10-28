@@ -1,6 +1,10 @@
-package creationalPatterns.factoryPattern;
+package creationalPatterns.prototypePattern;
 
-public class Rectangle implements Shape{
+public class Rectangle extends Shape {
+
+    public Rectangle(){
+        type = "Rectangle";
+    }
 
     @Override
     public void draw() {

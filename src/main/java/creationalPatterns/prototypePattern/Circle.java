@@ -1,7 +1,11 @@
-package creationalPatterns.factoryPattern;
+package creationalPatterns.prototypePattern;
 
-public class Circle implements Shape{
 
+public class Circle extends Shape{
+
+    public Circle(){
+        type = "Circle";
+    }
 
     @Override
     public void draw() {
