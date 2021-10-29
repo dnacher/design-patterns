@@ -1,6 +1,6 @@
 # design-patterns
 
-## this will be a project to add different design pattterns that I', studying.
+## This will be a project to add different design pattterns that I'm studying.
 
 ## lenguaje Java 8.
 
@@ -10,3 +10,4 @@
 - Abstract Factory Pattern
 - Singleton
 - Builder Pattern
+- Prototype Pattern
