@@ -11,3 +11,8 @@
 - Singleton
 - Builder Pattern
 - Prototype Pattern
+
+-Structural Patterns
+- Adapter Pattern
+- Bridge Pattern
+- Filter Pattern
